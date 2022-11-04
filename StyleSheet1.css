@@ -1,0 +1,62 @@
+﻿.hg {
+    background-color: #596A7E;
+    height: 75px;
+}
+
+.h th {
+    border: solid 1px #596A7E;
+}
+
+table.grid td {
+    border-collapse: collapse;
+    border: solid 1px #CED4DA;
+    margin-bottom: 0px;
+}
+
+.olnb {
+    outline: none;
+    border: none;
+}
+
+.btna {
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+}
+
+.btnl {
+    background-color: #2B628A;
+}
+
+.btnl:hover {
+    background-color: #17587E;
+    transition: all 0.8s;
+}
+
+.btns {
+    background-color: #55929E;
+}
+
+.btns:hover {
+    background-color: #287685;
+    transition: all 0.8s;
+}
+
+.l {
+    color: white;
+}
+
+.cot {
+    color: gray;
+}
+
+.gh {
+    color: black;
+}
+
+.gh:hover {
+    background-color: #F8F9FA;
+}
